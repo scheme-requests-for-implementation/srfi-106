@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=i/o][I/O]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-106/][SRFI 106]]: Basic socket interface, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
