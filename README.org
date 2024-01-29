@@ -1,7 +1,6 @@
-# SPDX-FileCopyrightText: 2012 Takashi Kato <ktakashi@ymail.com>
-#
-# SPDX-License-Identifier: MIT
 
+# SPDX-FileCopyrightText: 2024 Arthur A. Gleckler
+# SPDX-License-Identifier: MIT
 * SRFI 106: Basic socket interface
 
 ** by Takashi Kato
@@ -19,6 +18,5 @@ The full documentation for this SRFI can be found in the [[https://srfi.schemers
 If you'd like to participate in the discussion of this SRFI, or report issues with it, please [[https://srfi.schemers.org/srfi-106/][join the SRFI-106 mailing list]] and send your message there.
 
 Thank you.
-
 
 [[mailto:srfi-editors@srfi.schemers.org][The SRFI Editors]]
